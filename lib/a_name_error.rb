@@ -1,4 +1,7 @@
-hello_world = "hello world"
+def hello_world 
+    puts "hello world"
+end
 
-puts hello _world
+hello _world
+
 
